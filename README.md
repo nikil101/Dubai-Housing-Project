@@ -170,5 +170,8 @@ Different market segments offer varying levels of risk and return, allowing inve
 
 The Dubai Housing Market Analytics Dashboard transforms raw real estate data into actionable business intelligence. By analyzing pricing trends, market demand, neighborhood performance, and investment potential, the dashboard empowers stakeholders to make informed decisions and uncover valuable opportunities within the housing market.
 
-## 8. Screenshots / Demos
-Show what the dashboard looks like. Example:
+## 8. Screenshots / Demo
+
+### Dashboard Preview
+
+![Dubai Housing Market Dashboard](https://raw.githubusercontent.com/nikil101/Dubai-Housing-Project/main/Screenshot%202026-06-03%20110625.png)
